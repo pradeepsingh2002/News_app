@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Roman Reigns deals with The Bloodline dissension: SmackDown Highlights, June 2, 2023 - WWE",
+      "description": "Check out how Roman Reigns decides to deal with The Usos on the same day that he celebrates his historic 1,000-day reign as Undisputed WWE Universal Champion...",
+      "url": "https://www.youtube.com/watch?v=OjztuNgMAvw",
+      "urlToImage": "https://i.ytimg.com/vi/OjztuNgMAvw/maxresdefault.jpg",
+      "publishedAt": "2023-06-03T04:15:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Bruce Haring",
+      "title": "Churchill Downs, Home Of The Kentucky Derby, Shutting Down In Wake Of Horse Deaths - Deadline",
+      "description": "A string of race horse deaths has prompted fabled Churchill Downs in Louisville, Kentucky to suspend its racing operations beginning June 7. The suspension will continue throughout the Spring Meet …",
+      "url": "https://deadline.com/2023/06/churchill-downs-home-of-kentucky-derby-shutting-down-in-wake-of-horse-deaths-1235399549/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/GettyImages-1255057237.jpg?w=1024",
+      "publishedAt": "2023-06-03T03:16:00Z",
+      "content": "A string of race horse deaths has prompted fabled Churchill Downs in Louisville, Kentucky to suspend its racing operations beginning June 7. \r\nThe suspension will continue throughout the Spring Meet … [+1295 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "CIA chief made secret trip to China amid tensions: US official - Al Jazeera English",
+      "description": "CIA Director William Burns emphasised the importance of keeping communication open between China and the US.",
+      "url": "https://www.aljazeera.com/news/2023/6/3/cia-chief-made-secret-trip-to-china-amid-tensions-us-official",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/2021-01-11T000000Z_546392903_RC2P5L9WTLWL_RTRMADP_3_USA-BIDEN-CIA-1685756032.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-06-03T02:28:51Z",
+      "content": "In a bid to improve communication between Beijing and Washington, the director of the CIA, William Burns, visited China last month for talks with Chinese counterparts, a United States official said.\r… [+3837 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "David Rising",
+      "title": "US Defense Secretary Austin says Washington won't stand for 'coercion and bullying' from China - The Associated Press",
+      "description": "SINGAPORE (AP) — American Secretary of Defense Lloyd Austin vowed Saturday that Washington would not stand for any “coercion and bullying” of its allies and partners by China, while assuring Beijing that the United States remains committed to maintaining the …",
+      "url": "https://apnews.com/article/us-china-lloyd-austin-defense-asia-de10a9233bf226288faf86676486eef3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/8199f4a197a44859a35d5972de50ff17/3000.webp",
+      "publishedAt": "2023-06-03T02:03:45Z",
+      "content": "SINGAPORE (AP) American Secretary of Defense Lloyd Austin vowed Saturday that Washington would not stand for any coercion and bullying of its allies and partners by China, while assuring Beijing that… [+5695 chars]"
+    }
+    
+  ]
+}
